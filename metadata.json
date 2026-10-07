@@ -1,0 +1,6 @@
+{
+  "name": "TebarPintar — Ekosistem IoT Akuakultur & Strategi Pemasaran Digital",
+  "description": "Perancangan produk digital 3D interaktif dan strategi pemasaran ekosistem IoT pemberi pakan ikan otomatis TebarPintar untuk budidaya ikan Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
